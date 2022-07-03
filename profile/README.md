@@ -1,3 +1,5 @@
-# Hello, future BeatLeader!
-### BeatLeader is a new and open Beat Saber leaderboard!
-![](https://avatars.githubusercontent.com/u/98843512?s=200&v=4)
+## 👋BeatLeader is an open Beat Saber leaderboard!
+
+Mods for both Steam and native Quest game. Server, website, replay format, discord bot, here is everything.
+
+Join the [BeatLeader Discord](https://discord.gg/2RG5YVqtG6) for more info.
